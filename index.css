@@ -12,10 +12,13 @@ a {
   padding: 0 15px;
   margin: 0 auto;
 }
+.container img{
+  padding: 0 15px;
+}
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  padding: 300px 0 150px 0;
+  background-image: url(https://www.mediajabar.com/wp-content/uploads/2018/05/Ramadhan.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -127,7 +130,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 33%;
 }
 
 .lesson-icon {
